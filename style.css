@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(51, 136, 161);
+  font-family: "Roboto", sans-serif;
+}
+/* section {
+    background-color: ;
+} */
+#form {
+  background-color: rgb(161, 117, 51);
+}
+title {
+  color: red;
+}
+li {
+  list-style: none;
+}
+nav {
+  padding-bottom: 25px;
+  background-color: rgb(160, 95, 125);
+  align-items: center;
+}
+img {
+  width: 75px;
+}
